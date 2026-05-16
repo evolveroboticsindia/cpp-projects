@@ -74,7 +74,7 @@ This project demonstrates practical implementation of:
 ## 🔹 Compile
 
 ```powershell
-g++ cgpa.cpp -o cgpa
+g++ cgpa_calculator.cpp -o cgpa
 ```
 
 ## 🔹 Run
