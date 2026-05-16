@@ -53,7 +53,7 @@ The main objective of this project is to understand:
 ## 🔹 Compile
 
 ```powershell
-g++ atm.cpp -o atm
+g++ atm_system.cpp -o atm
 ```
 
 ## 🔹 Run
